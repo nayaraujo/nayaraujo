@@ -1,4 +1,5 @@
-## <div align="center">Oii eu sou a Nayara Araujo, estagiária em desenvolvimento front-end!</div>
+## Oii eu sou a Nayara Araujo, estagiária em desenvolvimento front-end!
+
 <div align="center">
   <a href="https://github.com/nayaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
