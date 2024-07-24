@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-👩 Olá! Me chamo Nayara<br>🎓 Formada em Defesa Cibernética (Cybersecurity)<br>🌱 Trainee na EY 💛<br>
+👩 Olá!<br>🎓 Formada em Defesa Cibernética (Cybersecurity)<br>🌱 Analista na EY 💛<br>
 
 
 # 💻 Tech Stack:
